@@ -44,6 +44,17 @@ Here I got the answers to some business questions:
 
 As the graph shows, there is 89% of the customers from UK, 2.27% from Germany, and 2.1% from France. There are also too many other countries but the number of customers is very low. The company now can try to adopt new marketing and advertising strategies to increase the number of its customers in these countries.
 
-2. How many orders do we receive per month and per day?
+2. How many orders do we receive per day and per month?
+
+![img](images/Oday.png)
+
+The graph shows that the number of orders is fluctuating throughout the month. However, we can notice that it decreases at the end of the month.
+
+![img](images/Omonth.png)
+
+Based on the graph, the company receives many orders in the last 4 months of the year. However, it receives less in the other months. One way to increase the sales is to focus on these months where the number of orders are lower and try to increase the sales. Also, look for the reason for the increase in the number of orders in the last 4 months to exploit the opportunity of receiving much more orders by using some strategies.
+
+
+
 
 
