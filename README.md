@@ -7,3 +7,16 @@ I am going to:
 1.   Explore, clean, and prepare the data using EDA
 2.   Visualize the data using Plotly, Matplotlib, and Seaborn to have the answers to some business questions
 3.   Classify the customers based on their buying behavior using K-Means clustering
+
+### Dataset Description
+
+Tha dataset contains fields that describe each unit ordered such as:
+* Invoice number 
+* Stock code
+* Description of the order
+* Quantity ordered
+* Price of each unit
+* Invoice date
+* Customer ID
+* Country
+![img](images/dataset.png)
