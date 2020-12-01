@@ -37,8 +37,13 @@ This is the cleaned dataset:
 
 ### Data Visualization 
 
-Here I got the answers of some business questions:
+Here I got the answers to some business questions:
 1. How many customers do we have in each country?
 
 ![img](images/NoCustomers.png)
+
+As the graph shows, there is 89% of the customers from UK, 2.27% from Germany, and 2.1% from France. There are also too many other countries but the number of customers is very low. The company now can try to adopt new marketing and advertising strategies to increase the number of its customers in these countries.
+
+2. How many orders do we receive per month and per day?
+
 
