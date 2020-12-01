@@ -26,6 +26,6 @@ The dataset contains fields that describe each unit ordered such as:
 
 In this section I prepared the data to be ready for the next steps. 
 
-First I removed the missing (null) values and removed some unreasonable negative values in the Quantity Column 
-
+First I removed the missing (null) values and some unreasonable negative values in the Quantity Column.
+![img](images/quantityColumn.png)
 
