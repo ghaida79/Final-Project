@@ -24,14 +24,21 @@ The dataset contains fields that describe each unit ordered such as:
 
 ### Exploratory Data Analysis (EDA)
 
-In this section I prepared the data to be ready for the next steps. 
+In this section, I prepared the data to be ready for the next steps. 
 
 * First: I removed the missing (null) values and some unreasonable negative values in the Quantity Column.
 ![img](images/quantityColumn.png)
 
-* Second: I modifyed the data types of the columns and added a new column that shows the revenue (Quantity x UnitPrice).
+* Second: I modified the data types of the columns and added a new column that shows the revenue (Quantity x UnitPrice).
 
 This is the cleaned dataset:
 
 ![img](images/cdataset.png)
+
+### Data Visualization 
+
+Here I got the answers of some business questions:
+1. How many customers do we have in each country?
+
+![img](images/NoCustomers.png)
 
