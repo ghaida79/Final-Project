@@ -10,7 +10,7 @@ I am going to:
 
 ### Dataset Description
 
-Tha dataset contains fields that describe each unit ordered such as:
+The dataset contains fields that describe each unit ordered such as:
 * Invoice number 
 * Stock code
 * Description of the order
@@ -19,4 +19,13 @@ Tha dataset contains fields that describe each unit ordered such as:
 * Invoice date
 * Customer ID
 * Country
+
 ![img](images/dataset.png)
+
+### Exploratory Data Analysis (EDA)
+
+In this section I prepared the data to be ready for the next steps. 
+
+First I removed the missing (null) values and removed some unreasonable negative values in the Quantity Column 
+
+
