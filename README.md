@@ -60,6 +60,12 @@ Based on the graph, the company receives many orders in the last 4 months of the
 
 You can see a strong negative nonlinear relationship between the quantity of the units and the price of each unit. If the quantity increases the unit price decreases and vice versa. 
 
+#### Dashboard
+
+I used the dash app to create an interactive dashboard that shows the revenue gained from different countries and the number of orders received in different time series.
+
+![img](images/db2010.png) ![img](images/db2011.png) 
+
 ### Customer Classification Using K-Means Clustring
 
 The company needs to classify its customers into different segments formed on some features. This will help the company to better deal with them differently in a way it can gain their satisfaction. 
