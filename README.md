@@ -54,7 +54,19 @@ The graph shows that the number of orders is fluctuating throughout the month. H
 
 Based on the graph, the company receives many orders in the last 4 months of the year. However, it receives less in the other months. One way to increase the sales is to focus on these months where the number of orders are lower and try to increase the sales. Also, look for the reason for the increase in the number of orders in the last 4 months to exploit the opportunity of receiving much more orders by using some strategies.
 
+3. What is the relationship between the number of units sold and the unit price?
 
+![img](images/QvsUP.png)
 
+You can see a strong negative nonlinear relationship between the quantity of the units and the price of each unit. If the quantity increases the unit price decreases and vice versa. 
 
+#### Customer Classification Using K-Means Clustring
+
+The company needs to classify its customers into different segments formed on some features. This will help the company to better deal with them differently in a way it can gain their satisfaction. 
+
+Here I classified the customers based on their buying behavior. I specified the quantity of units sold and the revenue from each unit as the features of the classification. Then I used K-Means Clustering to create four clusters of customers based on the purchasing behavior.
+
+![img](images/clusters.png)
+
+The figure shows four segments of the customers based on the way they purchase using the features of the quantity purchased and the revenue.
 
