@@ -66,7 +66,7 @@ The company needs to classify its customers into different segments formed on so
 
 Here I classified the customers based on their buying behavior. I specified the quantity of units sold and the revenue from each unit as the features of the classification. Then I used K-Means Clustering to create four clusters of customers based on the purchasing behavior.
 
-![img](images/clusters.png)
+![img](images/clustering.png)
 
 The figure shows four segments of the customers based on the way they purchase using the features of the quantity purchased and the revenue.
 
