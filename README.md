@@ -29,7 +29,7 @@ In this section, I prepared the data to be ready for the next steps.
 * First: I removed the missing (null) values and some unreasonable negative values in the Quantity Column.
 ![img](images/quantityColumn.png)
 
-* Second: I modified the data types of the columns and added a new column that shows the revenue (Quantity x UnitPrice).
+* Second: I modified the data types of the columns and added new columns. The first one is the Revenue that is calculated by (Quantity x UnitPrice). Also, I separate the InvoiceDate column into Year, Month, Day, and Time.
 
 This is the cleaned dataset:
 
