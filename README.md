@@ -62,7 +62,7 @@ You can see a strong negative nonlinear relationship between the quantity of the
 
 #### Dashboard
 
-I used the dash app to create an interactive dashboard that shows the revenue gained from different countries and the number of orders received in different time series.
+I used the dash app to create an interactive dashboard that shows the revenue gained and the number of orders received from different countries in different time series.
 
 ![img](images/db2010.png) ![img](images/db2011.png) 
 
