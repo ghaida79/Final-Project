@@ -76,3 +76,7 @@ Here I classified the customers based on their buying behavior. I specified the 
 
 The figure shows four segments of the customers based on the way they purchase using the features of the quantity purchased and the revenue.
 
+### Conclusion 
+
+This data analysis and visualization of the retail dataset can help the business to Seize opportunities and make better strategic, tactical, and operational decisions by having enough knowledge of its sales transactions and its customers' segments.
+
